@@ -1,0 +1,15 @@
+{
+  "name": "mohammadreza-panel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tw-w": "tailwindcss -i ./src/style.css -o ./public/.style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
